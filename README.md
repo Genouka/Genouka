@@ -8,7 +8,7 @@
 - [Rare商店(迁移到莘应用)](https://edsc.top/)
 
 🌸我开发的Godot辅助工具
-- [Godot导出助手](https://www.bilibili.com/opus/847553805248626689)
+- [Godot导出助手](https://gdh.genouka.rr.nu/)
 - [GodotHelper](https://www.bilibili.com/video/BV1K94y1t7Mt/)
 - [GodotExportForAndroid](https://github.com/Genouka/GodotExportForAndroid)
 - [Godot导出底包](https://github.com/Genouka/godotPrebuildApks)
