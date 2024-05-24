@@ -4,7 +4,7 @@
 - [RareBox](https://github.com/Genouka/RareBox)
 - [Rare浏览器](https://rare.genouka.rr.nu/rarebrowser/)
 - [莘应用](https://edsc.top/)
-- Rare翻译(放弃维护)
+- [Rare翻译(放弃维护)](https://rare.genouka.rr.nu/rarefanyi/)
 - [Rare商店(迁移到莘应用)](https://edsc.top/)
 
 🌸我开发的Godot辅助工具
