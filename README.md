@@ -5,7 +5,7 @@
 - [Rare浏览器](https://rare.genouka.rr.nu/rarebrowser/)
 - [莘应用](https://edsc.top/)
 - Rare翻译(放弃维护)
-- Rare商店(迁移到莘应用)
+- [Rare商店(迁移到莘应用)](https://edsc.top/)
 
 🌸我开发的Godot辅助工具
 - [Godot导出助手](https://www.bilibili.com/opus/847553805248626689)
