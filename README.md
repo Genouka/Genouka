@@ -5,8 +5,8 @@
 
 🌸我开发的手表应用
 - RareBox [官网](https://rare.genouka.top/rarebox/)/[开源](https://github.com/Genouka/RareBox) (开源免费手表adb工具箱)
-- Rare浏览器 [官网](https://rare.genouka.top/rarebrowser/) (WearOS系统可用的通用手表浏览器)
-- 莘应用 [官网](https://edsc.edsq.top/)/[开源](https://github.com/Genouka/XinAppStore) (免费开源手表应用商店)
+- Rare浏览器 [官网](https://rare.genouka.top/rarebrowser/) (WearOS系统可用的通用手表浏览器)/RarePro浏览器 [官网](https://rpbr.genouka.top/) (WearOS系统可用的通用手表浏览器)
+- 莘应用 [官网](https://xin.genouka.top/)/[开源](https://github.com/Genouka/XinAppStore) (免费开源手表应用商店)
 - Rare翻译（已废弃的项目） [官网](https://rare.genouka.top/rarefanyi/)
 - Rare商店（已废弃的项目） [官网](https://rare.genouka.top/rareshop/)
 
