@@ -1,8 +1,11 @@
-### 这是一个学畜的Github 👋
-本人厨东方，也很喜欢计算机编程相关的研究~
+### Hi!
+I'm a fan of Touhou Project, and I also love doing research related to computer programming~
 
-提醒：2025年5月，由于上游服务商的`rr.nu`域名被吊销，不得不将`*.genouka.rr.nu`域名迁移到`*.genouka.top`，只需要更改后缀即可访问。
+My website: [genouka.top](https://genouka.top)
 
+My PGP public key: [F1454E569C97F1D91DDA527C28E11FE32C88C12C](https://keys.openpgp.org/vks/v1/by-fingerprint/F1454E569C97F1D91DDA527C28E11FE32C88C12C). You can send me encrypted email at [master@genouka.top](mailto:master@genouka.top).
+
+#### My projects
 🌸我开发的手表应用
 - RareBox [官网](https://rare.genouka.top/rarebox/)/[开源](https://github.com/Genouka/RareBox) (开源免费手表adb工具箱)
 - Rare浏览器 [官网](https://rare.genouka.top/rarebrowser/) (WearOS系统可用的通用手表浏览器)/RarePro浏览器 [官网](https://rpbr.genouka.top/) (WearOS系统可用的通用手表浏览器)
